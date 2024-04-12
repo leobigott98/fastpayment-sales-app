@@ -1,0 +1,6 @@
+[submodule "API"]
+	path = API
+	url = https://github.com/leobigott98/fastpayment-sales-api.git
+[submodule "client"]
+	path = client
+	url = https://github.com/leobigott98/fastpayment-salesapp-front.git
